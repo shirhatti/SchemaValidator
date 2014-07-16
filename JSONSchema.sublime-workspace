@@ -1,0 +1,294 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/vNext/vNext.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ru",
+				"Run K Commands"
+			],
+			[
+				"run",
+				"Run K Commands"
+			],
+			[
+				"rum",
+				"Run K Commands"
+			],
+			[
+				"val",
+				"Validate JSON Schema"
+			],
+			[
+				"va",
+				"Validate JSON Schema"
+			],
+			[
+				"mar",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"ma",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"mark",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"makr",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"MA",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"ssra",
+				"Set Syntax: Razor"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"k",
+				"Run K Commands"
+			],
+			[
+				"z:",
+				"z:AAAPackageDev: New Plugin"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"r",
+				"Set Syntax: HTML (Rails)"
+			],
+			[
+				"tes",
+				"test"
+			],
+			[
+				"test",
+				"test"
+			]
+		],
+		"width": 584.0
+	},
+	"console":
+	{
+		"height": 274.0,
+		"history":
+		[
+			"window.run_command('example')",
+			"window.run_command('showpanel', {'pane;':'output.textarea'})",
+			"a = window.get_output_panel('textarea')",
+			"a = window_get_output_panel('textarea')",
+			"window",
+			"window.output_view",
+			"window.run_command('example')",
+			"window",
+			"dir()",
+			"dir",
+			"ls",
+			"git status",
+			"window.folders()",
+			"window.run_command('validate_schema')",
+			"import jsonschema",
+			"sys.path",
+			"import sys",
+			"os.__file__",
+			"import os",
+			"inspect(os)",
+			"inspect os",
+			"os.environ['PATH']",
+			"print os.environ['PATH']",
+			"import os",
+			"path",
+			"window.run_command('open_terminal', {'parameters':['k build']})",
+			"window.run_command('open_terminal', 'parameters':['k build'])",
+			"window.run_command('open_terminal', 'parameters':['test'])",
+			"window.run_command('open_terminal')",
+			"echo $PATH",
+			"window.run_command('open_terminal')",
+			"window.run_command('open_terminal', ['test'])",
+			"window.run_command('open_terminal')",
+			"__name__",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/sourabhshirhatti/Library/Application Support/Sublime Text 3/Packages/JSONSchemaValidator/JSONSchemaValidator.py",
+		"/Users/sourabhshirhatti/Library/Application Support/Sublime Text 3/Packages/JSONSchemaValidator/JSONSchema.sublime-project",
+		"/Users/sourabhshirhatti/Library/Application Support/Sublime Text 3/Packages/vNext/README.md",
+		"/Users/sourabhshirhatti/ms/Home/samples/HelloMvc/bin/HelloMvc.0.1-alpha-SNAPSHOT.nupkg",
+		"/Users/sourabhshirhatti/ms/Home/samples/HelloMvc/bin/output/web.cmd",
+		"/Users/sourabhshirhatti/ms/Home/samples/HelloMvc/Views/Shared/_Layout.cshtml",
+		"/Users/sourabhshirhatti/ms/Home/samples/HelloMvc/Controllers/HomeController.cs",
+		"/Users/sourabhshirhatti/ms/Home/samples/HelloMvc/,"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"validate"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 197.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.textarea":
+	{
+		"height": 100.0
+	},
+	"project": "JSONSchema.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"csht",
+				"Views/Shared/_Layout.cshtml"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 295.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
